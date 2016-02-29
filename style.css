@@ -1,0 +1,44 @@
+html, body {
+    height: 100%;
+    background-color: #333333;
+    color: #FFFFFF;
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
+}
+
+.avatar {
+    width: 128px;
+    height: 128px;
+}
+
+.contact-icon {
+    width: 32px;
+    height: 32px;
+}
+
+img.quote {
+    width: 44px;
+}
+
+.bg-primary {
+    background-color: #0094FF;
+}
+
+h1.name {
+    margin: 0;
+    color: #0094FF;
+    font-size: 64px;
+}
+
+h4.title {
+    margin: 0;
+    font-size: 24px;
+}
+
+.font-light {
+    font-weight: 300px;
+}
+
+section {
+    padding: 32px;
+}
